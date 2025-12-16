@@ -1,16 +1,11 @@
 Tech Stack Used:
 Frontend
-
 React
-
 TypeScript
-
 Tailwind CSS
-
 Recharts
-
 Vite
-
+------------------------
 Backend
 
 Node.js
