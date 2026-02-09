@@ -9,7 +9,6 @@ export default function App() {
   return (
     <BrowserRouter>
       {/* Left sidebar */}
-      <Navbar />
         <NowPlaying />
 
       {/* Right content area */}
